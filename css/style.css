@@ -1,0 +1,139 @@
+body{
+    background-color: #E5E5E5;
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    margin: auto;
+    width: 960px;
+    height: 650px;
+    padding: 5px;
+}
+
+.logo{
+    width: 100%;
+    float: left;
+}
+
+.left{
+    float: left;
+    width: 70%;
+    height: 350px;
+    border-radius: 24px;
+}
+input{
+    height: 288px;
+    width: 680px;
+    margin-left: 240px;
+    margin-top: 168px;
+    margin-right: 520px;
+    border-radius: 24px;
+    text-align: center;
+}
+.right{
+    float: right;
+    width: 30%;
+    border-radius: 24px;
+    height: auto;
+}
+
+#img-muneco{
+    width: 100%;
+}
+
+.left-button{
+    float: left;
+    width: 73%;
+    height: auto;
+    border-radius: 24px;
+}
+
+.left-button p{
+    color: #0A3871;
+    font-size: 1.1em;
+    margin-left: 2em;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.right h1{
+    text-align: center;
+    color: #0A3871;
+}
+
+.logo-img{
+    margin-top: 1%;
+    float: inherit;
+    margin-left: 5%;
+}
+
+.title{
+    float: inherit;
+    margin-left: 20%;
+}
+
+.escribeTexto{
+    float: inherit;
+    margin-left: 10%;
+    margin-top: 10%;
+    width: 80%;
+    height: 80%;
+    color: #0A3871;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    background-color: #E5E5E5;
+}
+
+.img-muneco{
+    margin-top: 20%;
+    width: 100%;
+    height: auto;
+    margin-left: 3%;
+}
+#texto{
+    margin-left: 7%;
+    margin-right: 5%;
+}
+
+#texto2{
+    float: left;
+    margin-left: 10%;
+    color: #0A3871;
+    width: 80%;
+    height: 60%;
+    border: none;
+    outline: none;
+    font-size: 15px;
+}
+
+#encriptar{
+    padding: 24px;
+    width: 30%;
+    height: 60%;
+    border-radius: 24px;
+    margin-left: 15%;
+    background-color: #0A3871;
+    color: #ffffff;
+}
+
+#desencriptar{
+    padding: 24px;
+    width: 30%;
+    height: 60%;
+    border-radius: 24px;
+    margin-left: 15%;
+    background: #D8DFE8;
+    color: #0A3871;
+    border-color: #0A3871;
+}
+#copiar{
+    margin-left: 33%;
+    margin-top: 90%;
+    padding: 24px;
+    width: 40%;
+    height: 10%;
+    background-color: #D8DFE8;
+    border-radius: 24px;
+    display: none;
+}
